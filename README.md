@@ -1,2 +1,2 @@
 # Gorev
-B125 goörevi
+B125 gorevi
